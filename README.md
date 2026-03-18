@@ -15,10 +15,10 @@
 <h3 align="left">🧠 Systems & Networking:</h3>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/linux/000000" alt="Linux" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gnubash/000000" alt="Bash" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/gnu/F00" alt="Bash" width="40" height="40"/>
   </a>
   <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/cisco/1BA0E2" alt="Cisco Networking" width="40" height="40"/>
@@ -36,7 +36,7 @@
     <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40"/>
